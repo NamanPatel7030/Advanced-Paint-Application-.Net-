@@ -18,3 +18,13 @@ C:\Users\naman\Downloads\paint-application-csharp-main\paint-application-csharp-
 C:\Users\naman\Downloads\paint-application-csharp-main\paint-application-csharp-main\obj\Debug\PaintApplicationAssignment.csproj.CoreCompileInputs.cache
 C:\Users\naman\Downloads\paint-application-csharp-main\paint-application-csharp-main\obj\Debug\PaintApplicationAssignment.exe
 C:\Users\naman\Downloads\paint-application-csharp-main\paint-application-csharp-main\obj\Debug\PaintApplicationAssignment.pdb
+C:\Users\naman\Downloads\Advanced Paint Application By TeamX\bin\Debug\PaintApplicationAssignment.exe.config
+C:\Users\naman\Downloads\Advanced Paint Application By TeamX\bin\Debug\PaintApplicationAssignment.exe
+C:\Users\naman\Downloads\Advanced Paint Application By TeamX\bin\Debug\PaintApplicationAssignment.pdb
+C:\Users\naman\Downloads\Advanced Paint Application By TeamX\obj\Debug\PaintApplicationAssignment.csproj.AssemblyReference.cache
+C:\Users\naman\Downloads\Advanced Paint Application By TeamX\obj\Debug\PaintApplicationAssignment.Form1.resources
+C:\Users\naman\Downloads\Advanced Paint Application By TeamX\obj\Debug\PaintApplicationAssignment.Properties.Resources.resources
+C:\Users\naman\Downloads\Advanced Paint Application By TeamX\obj\Debug\PaintApplicationAssignment.csproj.GenerateResource.cache
+C:\Users\naman\Downloads\Advanced Paint Application By TeamX\obj\Debug\PaintApplicationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\naman\Downloads\Advanced Paint Application By TeamX\obj\Debug\PaintApplicationAssignment.exe
+C:\Users\naman\Downloads\Advanced Paint Application By TeamX\obj\Debug\PaintApplicationAssignment.pdb
